@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidDemo</string>
+    <item name="key_tag1" type="id"></item>
+    <item name="key_tag2" type="id"></item>
+</resources>
