@@ -24,7 +24,8 @@ public class MainActivity extends Activity {
 
     private HomeAdapter mHomeAdapter;
 
-    private String[] datas = {"Glide", "RxJava", "RecyclerView", "Picasso", "Event", "TouchImageView", "ToolBar", "Vitamio", "ImageViewRecovery", "RecyclerView2", "RecyclerView2", "RecyclerView2", "RecyclerView2",};
+    private String[] datas = {"Glide", "RxJava", "RecyclerView", "Picasso", "Event", "TouchImageView", "ToolBar", "Vitamio", "ImageViewRecovery",
+            "RecyclerView1", "RecyclerView2", "RecyclerView6", "RecyclerView5",};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
